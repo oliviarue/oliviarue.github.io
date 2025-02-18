@@ -1,0 +1,46 @@
+body {
+    font-family: "Georgia", serif;
+    margin: 5vh auto;
+    padding: 10vh;
+    background-color: #16161d;
+    color: #ffffff;
+    text-align: center;
+    max-width: 800px;
+}
+
+.stage {
+    padding: 3vh;
+    font-size: 1.5em;
+    opacity: 0.8;
+}
+
+.death {
+    color: #5a5a5a;
+}
+
+.ashes {
+    color: #a0522d;
+    letter-spacing: 0.25vw;
+}
+
+.rebirth {
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.flight {
+    color: #ffd700;
+    font-size: 2em;
+    font-style: italic;
+}
+
+.nav {
+    margin-top: 1.5vh;
+}
+
+.nav a {
+    color: #ff4500;
+    text-decoration: none;
+    margin: 1vw;
+    font-weight: bold;
+}
